@@ -14,6 +14,7 @@
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
     "@hookform/resolvers": "^2.8.8",
+    "@types/faker": "^6.6.9",
     "apexcharts": "^3.35.0",
     "framer-motion": "^6.2.8",
     "next": "12.1.4",
@@ -22,6 +23,7 @@
     "react-dom": "18.0.0",
     "react-hook-form": "^7.29.0",
     "react-icons": "^4.3.1",
+    "react-query": "^3.34.20",
     "yup": "^0.32.11"
   },
   "devDependencies": {
@@ -29,6 +31,8 @@
     "@types/react": "^17.0.43",
     "eslint": "8.12.0",
     "eslint-config-next": "12.1.4",
+    "faker": "^5.5.3",
+    "miragejs": "^0.1.43",
     "typescript": "^4.6.3"
   }
 }
